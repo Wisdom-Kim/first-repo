@@ -1,1 +1,3 @@
 zzzz
+function2();
+function3();
